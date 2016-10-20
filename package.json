@@ -1,0 +1,29 @@
+{
+  "name": "leeddev",
+  "version": "1.0.0",
+  "description": "A website created for and developed by Tommy Leedberg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://tommyleedberg@github.com/tommyleedberg/leeddev.git"
+  },
+  "author": "Tommy Leedberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tommyleedberg/leeddev/issues"
+  },
+  "homepage": "https://github.com/tommyleedberg/leeddev#readme",
+  "dependencies": {
+    "angular2": "^2.0.0-beta.17",
+    "es6-shim": "^0.35.1",
+    "reflect-metadata": "^0.1.8",
+    "rxjs": "^5.0.0-rc.1",
+    "systemjs": "^0.19.39",   
+    "zone.js": "^0.6.26",
+    "typescript": "^2.0.3",
+    "typings": "^1.4.0"
+  }
+}
